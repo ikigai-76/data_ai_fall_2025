@@ -58,4 +58,4 @@ Before submitting, make sure you have:
 - [x] Used basic formulas (`SUM`, `AVERAGE`, `COUNT`)
 - [x] Included simple charts or visualizations
 - [x] Written a brief analysis summary
-- [ ] Emailed your work to `data@tech-moms.org`
+- [x] Emailed your work to `data@tech-moms.org`
